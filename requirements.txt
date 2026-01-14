@@ -1,0 +1,11 @@
+langchain
+langchain-openai
+langchain-anthropic
+llama-index
+chromadb
+pydantic
+streamlit
+spacy
+pandas
+numpy
+python-dotenv

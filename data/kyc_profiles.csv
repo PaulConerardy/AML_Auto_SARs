@@ -1,0 +1,4 @@
+customer_id,full_name,occupation,risk_score,address,onboarding_date
+C001,John Doe,Software Engineer,Low,"123 Main St, NY",2020-01-15
+C002,Jane Smith,Art Dealer,High,"456 Art Ave, Miami",2021-05-20
+C003,Bob Johnson,Consultant,Medium,"789 Biz Rd, Chicago",2019-11-10
