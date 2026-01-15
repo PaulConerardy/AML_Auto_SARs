@@ -1,7 +1,7 @@
 # AML SAR Assistant
 
 ## À propos
-Bienvenue sur ce projet personnel ! L'objectif ici était d'explorer comment l'IA générative peut aider à résoudre des problèmes concrets dans le domaine de la conformité bancaire (AML).
+Projet personnel.
 
 J'ai créé cet assistant pour voir si l'on pouvait automatiser la rédaction des rapports d'activité suspecte (SAR), une tâche souvent longue et répétitive. L'idée est d'utiliser une architecture **RAG (Retrieval-Augmented Generation)** pour récupérer les preuves dans des documents et aider l'utilisateur à rédiger un rapport cohérent en quelques secondes.
 
@@ -36,4 +36,4 @@ Si vous voulez tester le code chez vous :
     streamlit run src/ui/app.py
     ```
 
-*Note : N'oubliez pas votre clé API OpenAI si vous n'utilisez pas de modèle local !*
+*Note : Possible d'utiliser un modèle en local via local ou de fournir une clé API*
