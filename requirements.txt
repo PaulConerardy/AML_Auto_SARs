@@ -9,3 +9,6 @@ spacy
 pandas
 numpy
 python-dotenv
+llama-index-embeddings-huggingface
+llama-index-vector-stores-chroma
+langchain-ollama
